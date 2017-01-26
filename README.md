@@ -1,9 +1,9 @@
-# LolaCaja
-#=========================================================================
-#                  Author: lola-rica                                     =
-#                  lolatmp@gmail.com                                     =
-#                   github/Saycoron                                      =
-#=========================================================================
+ LolaCaja
+=========================================================================
+                  Author: lola-rica                                     =
+                  lolatmp@gmail.com                                     =
+                   github/Saycoron                                      =
+=========================================================================
 
 Lola-Utils - Caja Fuerte v1.0!
 
@@ -12,7 +12,7 @@ Mini Script que usa Encfs para Cifrar el contenido de una carpeta.
 Modo de uso: iniciar el script mediante shell pasando como parametro < start, stop o error >
 ejemplo: 
 
-# sh lolacaja.sh start
+sh lolacaja.sh start
 
 Nota: si es la primera vez creara las carpetas, la ruta donde se crean es : /root/caja/
 dentro de la misma se encontraras las carpetas:
@@ -41,4 +41,4 @@ EL COMANDO < error >
 ejemplo : sh lolacaja.sh error
 
 YA BUSCARE UNA FORMA MAS PRACTICA DE HACERLO DE MOMENTO LO SUBO ASI, ERROR APARECE CUANDO EL 
-USUARIO INGRESA UNA CLAVE ERRONEA ASI QUE SIMPLEMENTE NO FALLEN :D. 
+USUARIO INGRESA UNA CLAVE ERRONEA ASI QUE SIMPLEMENTE NO FALLEN :D. .
