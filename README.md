@@ -1,9 +1,6 @@
- LolaCaja
-=========================================================================
-                  Author: lola-rica                                     =
-                  lolatmp@gmail.com                                     =
-                   github/Saycoron                                      =
-=========================================================================
+Author: lola-rica                                 
+lolatmp@gmail.com                                     
+github/Saycoron                           
 
 Lola-Utils - Caja Fuerte v1.0!
 
