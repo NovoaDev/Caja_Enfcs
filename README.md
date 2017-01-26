@@ -1,7 +1,3 @@
-Author: lola-rica                                 
-lolatmp@gmail.com                                     
-github/Saycoron                           
-
 Lola-Utils - Caja Fuerte v1.0!
 
 Mini Script que usa Encfs para Cifrar el contenido de una carpeta.
